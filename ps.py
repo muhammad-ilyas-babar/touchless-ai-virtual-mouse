@@ -1,5 +1,5 @@
 """
-Murtaza's Advanced Visual AI Mouse (God-Level / Pro Engineer Edition)
+Muhammad Ilyas Babar Attari Advanced Visual AI Mouse (Master-Level / Pro Engineer Edition)
 =====================================================================
 Gesture Architecture:
 1. ✊ FIST (Mutthi)           : SLEEP / PAUSE Mode (Keyboard typing / relax).
